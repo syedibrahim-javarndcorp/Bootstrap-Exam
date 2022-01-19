@@ -1,13 +1,66 @@
-.container-fluid{
+#section1{
     padding-left: 0;
     padding-right: 0;
+    
+    
 }
 .heading{
     text-align: center;
     padding: 5% 7%;
     color: #fff;
-    background: rgb(44, 44, 44);
+    /* background: rgb(44, 44, 44); */    
+}
+.intro{
+    text-align: center;
+    padding: 2% 20%;
+    background-color: lightgray;
+}
+.carding-section{
+    background-color: #1f1d1d;
+    text-align: center;
+    border: 2px;
+    padding: 3% 10%;
+    width: auto;
+    margin-top: 1%;
+}
+.para{
+    width: 50%;
+    margin: 5% auto;
+}
+.message{
+    text-align: center;
+    padding: 5% 9%;
+
+}
+.blue{
+    text-align: center;
+    background-color: #118fc9;
+    padding: 5% 15%;
+    color: #fff;
+}
+.black{
+    text-align: center;
+    background-color: #1f1d1d;
+    padding: 5% 15% ;
+    color: #fff;
+}
+.para-section{
+    padding:2% 10%;
    
-    
-    
+}
+.row{
+    margin: 0;
+}
+.footer{
+    text-align: center;
+    color: #fff;
+    background-color: black;
+    height:80px;
+    margin: 0;
+}
+.footeralign{
+    padding-top: 2%;
+}
+.footerblue{
+    color: #001affde;
 }
