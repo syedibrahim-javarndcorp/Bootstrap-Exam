@@ -1,20 +1,25 @@
+/* head section */
 #section1{
     padding-left: 0;
     padding-right: 0;
     
     
 }
+
 .heading{
     text-align: center;
     padding: 5% 7%;
     color: #fff;
     /* background: rgb(44, 44, 44); */    
 }
+/* second container */
 .intro{
     text-align: center;
     padding: 2% 20%;
     background-color: lightgray;
 }
+
+/* carding container */
 .carding-section{
     background-color: #1f1d1d;
     text-align: center;
@@ -23,15 +28,18 @@
     width: auto;
     margin-top: 1%;
 }
+/* to style the para of the cards */
 .para{
     width: 50%;
     margin: 5% auto;
 }
+/* lorem ipsum section  */
 .message{
     text-align: center;
     padding: 5% 9%;
 
 }
+/* contact us section */
 .blue{
     text-align: center;
     background-color: #118fc9;
@@ -44,6 +52,7 @@
     padding: 5% 15% ;
     color: #fff;
 }
+/* footer section */
 .para-section{
     padding:2% 10%;
    
